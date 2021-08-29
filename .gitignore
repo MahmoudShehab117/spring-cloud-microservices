@@ -1,0 +1,5 @@
+/gateway-service/gateway-service/logs/*.log
+/spring-cloud-config-server/cloud-config-server/logs/*.log
+*.class
+*.log
+target
